@@ -1,5 +1,3 @@
-Of course! Here's a polished and engaging version of your GitHub `README.md` that showcases your profile, interests, and skills more fully based on what you've shared so far:
-
 ```markdown
 👋 Hi, I’m @arafattech — Md Arafat Rahman
 💻 Full-Stack Developer | ASP.NET C# | Angular | UI5 Web Components |
